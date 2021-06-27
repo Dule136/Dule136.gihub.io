@@ -1,0 +1,45 @@
+    <section>
+        <section class="section"></section>
+        <ul class="sas clearfix">
+            <li>
+                <figure>
+                    <img src="resources/img/slika1.jpg" alt="s">
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img src="resources/img/slika2.jpg" alt="s">
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img src="resources/img/slika3.jpg" alt="s">
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img src="resources/img/slika4.jpg" alt="s">
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img src="resources/img/slika5.jpg" alt="s">
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img src="resources/img/slika6.jpg" alt="s">
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img src="resources/img/slika7.jpg" alt="s">
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img src="resources/img/slika8.jpg" alt="s">
+                </figure>
+            </li>
+        </ul>
+    </section>

@@ -1,0 +1,18 @@
+                    <div>
+                        <ul>
+                            <li><ion-ion name="chechmark-outline"></ion-ion>
+                                1 obrok dnevno
+                            </li>
+                            <li>
+                                Narucite 24/7
+                            </li>
+                            <li>
+                                Kompletna ponuda
+                            </li>
+                            <li>
+                                Besplatna isporuka
+                            </li>
+                        </ul>
+                    </div>
+                    <div><a href='#' class="btn btn-outline">Prijavite se</a></div>
+                </div>

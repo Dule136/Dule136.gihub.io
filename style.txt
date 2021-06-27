@@ -1,0 +1,45 @@
+.icon-big {
+    font-size: 6.5rem;
+    display: block;
+    margin-bottom: 1rem;
+}
+
+.sas {
+    list-style: none;
+    width:100;
+    margin: 0;
+}
+.sas li{
+    float:left;
+    width: 25%;
+}
+.sas li figure {
+    width:100%;
+    margin: 0;
+    overflow: hidden;
+    background-color: #000;
+}
+
+.sas li figure img {
+    width: 100%;
+    height: auto;
+    transform: scale(1.15);
+    opacity:0.7;
+    transition: transform 500ms, opacity 500ms;
+}
+.sas {
+    padding: 0;
+}
+.sas li figure img:hover {
+    transform: scale(1.03);
+    opacity: 1;
+}
+
+.sas1 {
+    height: 200px;
+}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: block;
+}
